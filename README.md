@@ -1,11 +1,13 @@
 
 ## WARNING 
 
-UNSECURE MODULE DO NOT USE IN PRODUCTION:
+INSECURE MODULE DO NOT USE IN PRODUCTION:
 
 > npm i
 
 > found 65 vulnerabilities (4 low, 5 moderate, 56 high)
+
+See issue for details - https://github.com/priologic/easyrtc/issues/451
 
 ![EasyRTC](./api/img/easyrtc.png "EasyRTC")
 

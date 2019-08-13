@@ -1,3 +1,8 @@
+UNSECURE MODULE DO NOT USE IN PRODUCTION:
+
+> npm i
+> found 65 vulnerabilities (4 low, 5 moderate, 56 high)
+
 ![EasyRTC](./api/img/easyrtc.png "EasyRTC")
 
 EasyRTC
